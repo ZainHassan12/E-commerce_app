@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220032001055",
+    "project_id": "edens-b484a",
+    "storage_bucket": "edens-b484a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220032001055:android:3995723b1a18ce8f2ea12a",
+        "android_client_info": {
+          "package_name": "com.example.edens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2hbCVzvenBtbq88xZGiBRwOt354EW1-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
